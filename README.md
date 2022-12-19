@@ -11,7 +11,7 @@ The aim of this project was to create a portfolio, so that I am able to showcase
 -Adding background images to CSS instead of HTML
 
 ## Usage:
-The information is layedout in the webpage, use the navigation bar to jump to the different sections of the portfolio.
+The information is layed out in the webpage, use the navigation bar to jump to the different sections of the portfolio.
 
 ## Installation:
 N/A
