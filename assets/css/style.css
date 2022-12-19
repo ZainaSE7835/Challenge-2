@@ -160,8 +160,8 @@ p {
 }
 
 #contact {
-  position: absolute;
-  top: 1400px
+  position: relative;
+  top: 750px
 }
 
 .nav2 {
@@ -181,9 +181,7 @@ p {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
-  flex-wrap: wrap;
   padding-right: 600px;
-  padding-top: 80px;
 }
 
 .nav3 > li {
@@ -200,3 +198,14 @@ p {
   
 }
 
+#email{
+  padding-right: 300px;
+}
+
+#linkedin{
+  padding-right: 300px;
+}
+
+#github{
+  padding-right: 300px;
+}
